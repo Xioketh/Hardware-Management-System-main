@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Kethaka\Desktop\Gruop Project\Group_Project.jar</jar>
+  <outfile>C:\Users\Kethaka\Desktop\Gruop Project\GroupProject.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Kethaka\Desktop\Gruop Project\icon\Blue-Modern-and-Simple-Technology-Logo.ico</icon>
+  <classPath>
+    <mainClass>Intface.Menu</mainClass>
+    <cp>lib/AbsoluteLayout.jar</cp>
+    <cp>lib/KGradientPanel.jar</cp>
+    <cp>lib/activation.jar</cp>
+    <cp>lib/beansbinding-1.2.1.jar</cp>
+    <cp>lib/javax.mail.jar</cp>
+    <cp>lib/jcalendar-1.4.jar</cp>
+    <cp>lib/mysql-connector-java-5.1.23-bin.jar</cp>
+    <cp>lib/rs2xml.jar</cp>
+  </classPath>
+  <jre>
+    <path>bin/jre</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
